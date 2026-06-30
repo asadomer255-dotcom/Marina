@@ -1,6 +1,6 @@
 const fs = global.nodemodule["fs-extra"];
 module.exports.config = {
-  name: "goibot",
+  name: "Khan Zadi",
   version: "1.0.1",
   hasPermssion: 0,
   credits: "Mod by John Lester",
@@ -69,11 +69,11 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
   
    if ((event.body.toLowerCase() == "admin") || (event.body.toLowerCase() == "owner")) {
-     return api.sendMessage("‎🍁𝐎𝐖𝐍𝐄𝐑🍁:𝄟  𝆺𝅥⃝𝗠𝗔𝗥⃟𝗜𝗡𝗔  𝄟\n 𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 ⚡ ཫ༄𒁍⃝𝐌𝐀𝐑⃟𝐈𝐍𝐀⚡. 𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝 : https://www.facebook.com ", threadID);
+     return api.sendMessage("‎🍁𝐎𝐖𝐍𝐄𝐑🍁:𝄟  𝆺𝅥⃝Khan Zadi  𝄟\n 𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 ⚡ ཫ༄𒁍⃝Khan Zadi⚡. 𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝 : https://www.facebook.com ", threadID);
    };
 
    if ((event.body.toLowerCase() == "tumhe kisne banaya hai") || (event.body.toLowerCase() == "tumko banaya kisne")) {
-     return api.sendMessage("💐⚡ ཫ༄𒁍⃝𝐌𝐀𝐑⃟𝐈𝐍𝐀🥀⚡ 𝐌𝐲 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 𝐇𝐞 𝐥𝐨𝐯𝐞𝐬 𝐦𝐞 & 𝐄𝐝𝐢𝐭 𝐌𝐞 𝐃𝐚𝐢𝐥𝐲 𝐘𝐞 𝐁𝐨𝐭 𝐒𝐢𝐫𝐟 𝐎𝐰𝐧𝐞𝐫 𝐤𝐞 𝐋𝐢𝐲𝐞 𝐡 𝐌𝐮𝐣𝐡𝐞 𝐀𝐚𝐩 𝐥𝐨𝐠𝐨 𝐤𝐨 𝐇𝐚𝐬𝐚𝐧𝐞 𝐤 𝐥𝐢𝐲𝐞 𝐛𝐚𝐧𝐲𝐚 𝐠𝐲𝐚 𝐡 𝐓𝐨𝐡 𝐌𝐮𝐡 𝐋𝐚𝐝𝐤𝐚𝐲𝐞 𝐌𝐚𝐭 𝐑𝐚𝐤𝐤𝐡𝐚 𝐊𝐚𝐫𝐨 𝐇𝐚𝐫 𝐖𝐚𝐪𝐭 𝐇𝐚𝐬𝐭𝐞 𝐑𝐚𝐡𝐨💐", threadID);
+     return api.sendMessage("💐⚡ ཫ༄𒁍⃝Khan Zadi🥀⚡ 𝐌𝐲 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 𝐇𝐞 𝐥𝐨𝐯𝐞𝐬 𝐦𝐞 & 𝐄𝐝𝐢𝐭 𝐌𝐞 𝐃𝐚𝐢𝐥𝐲 𝐘𝐞 𝐁𝐨𝐭 𝐒𝐢𝐫𝐟 𝐎𝐰𝐧𝐞𝐫 𝐤𝐞 𝐋𝐢𝐲𝐞 𝐡 𝐌𝐮𝐣𝐡𝐞 𝐀𝐚𝐩 𝐥𝐨𝐠𝐨 𝐤𝐨 𝐇𝐚𝐬𝐚𝐧𝐞 𝐤 𝐥𝐢𝐲𝐞 𝐛𝐚𝐧𝐲𝐚 𝐠𝐲𝐚 𝐡 𝐓𝐨𝐡 𝐌𝐮𝐡 𝐋𝐚𝐝𝐤𝐚𝐲𝐞 𝐌𝐚𝐭 𝐑𝐚𝐤𝐤𝐡𝐚 𝐊𝐚𝐫𝐨 𝐇𝐚𝐫 𝐖𝐚𝐪𝐭 𝐇𝐚𝐬𝐭𝐞 𝐑𝐚𝐡𝐨💐", threadID);
    };
 
   if ((event.body.toLowerCase() == "😉") || (event.body.toLowerCase() == "😉😉")) {
@@ -85,7 +85,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
   
    if ((event.body.toLowerCase() == "") || (event.body.toLowerCase() == "")) {
-     return api.sendMessage("💐🤘🤟  *★᭄𝗢𝘄𝗻𝗲𝗿 ཫ༄𒁍⃝𝐌𝐀𝐑⃟𝐈𝐍𝐀🤘🤟💐", threadID);
+     return api.sendMessage("💐🤘🤟  *★᭄𝗢𝘄𝗻𝗲𝗿 ཫ༄𒁍⃝Khan Zadi🤘🤟💐", threadID);
    };
 
    if ((event.body.toLowerCase() == "shadi karoge") || (event.body.toLowerCase() == "mujhse shadi karoge?")) {
@@ -109,89 +109,4 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
    if ((event.body.toLowerCase() == "nice") || (event.body.toLowerCase() == "thank you") || (event.body.toLowerCase() == "thank you bot") || (event.body.toLowerCase() == "thank you maliha")) {
-     return api.sendMessage("️💐𝐌𝐚𝐢 𝐡𝐮 𝐡𝐢 𝐢𝐭𝐧𝐚 𝐀𝐜𝐜𝐡𝐚 𝐬𝐚𝐛 𝐥𝐨𝐠 𝐓𝐚𝐫𝐞𝐞𝐟 𝐤𝐚𝐫𝐭𝐞 𝐇 𝐌𝐞𝐫𝐢💐", threadID);
-   };
-
-   if ((event.body.toLowerCase() == "hm") || (event.body.toLowerCase() == "hmm")) {
-     return api.sendMessage("️💐𝐘𝐞 𝐁𝐡𝐚𝐢𝐍𝐬 🐂 𝐊𝐢 𝐓𝐚𝐫𝐚𝐡 𝐇𝐦𝐦 𝐇𝐦𝐦𝐦 𝐊𝐲𝐚 𝐊𝐚𝐫𝐭𝐞 𝐇𝐨 𝐈𝐬𝐤𝐞 𝐀𝐚𝐠𝐞 𝐊𝐮𝐜𝐇 𝐁𝐨𝐥𝐍𝐚 𝐍𝐡𝐢 𝐀𝐚𝐭𝐚 𝐊𝐲𝐚💐", threadID);
-   };
-
-   if ((event.body.toLowerCase() == "name") || (event.body.toLowerCase() == "naam") || (event.body.toLowerCase() == "real name")) {
-     return api.sendMessage("️💐𝐒𝐚𝐫𝐢 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐋𝐞𝐊𝐚𝐫 𝐒𝐡𝐚𝐃𝐢 𝐊𝐫𝐨𝐆𝐞 𝐊𝐲𝐚💐", threadID);
-   };
-
-   if ((event.body.toLowerCase() == "bot k bacche") || (event.body.toLowerCase() == "bot ke bacche")) {
-     return api.sendMessage("️💐𝐌𝐮𝐣𝐡𝐞 𝐁𝐨𝐭 𝐊𝐚 𝐁𝐚𝐜𝐇𝐚 𝐌𝐚𝐭 𝐁𝐨𝐥𝐨 𝐌𝐚𝐢 𝐓𝐮𝐦𝐇𝐚𝐫𝐚 𝐁𝐡𝐢 𝐛𝐚𝐚𝐏 𝐡𝐮𝐧💐", threadID);
-   };
-
-if ((event.body.toLowerCase() == "Paglu") || (event.body.toLowerCase() == "Marina")) {
-     return api.sendMessage("️💐ค้้้้้้้้้้้้้้้้้้้­้้้้้้้้้้้้้้้้้้้้­้้้้้้้้้้้้้้้้้้้้­้้้้้้้้้้้้้้้้้้้้­้้้้้้้้้้้้้้้ ฏ๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎­๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎­๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎­๎๎๎๎๎๎๎๎๎๎๎ཫ 𓆩⟬⍣⃝𝗠𝗔𝗥⃟𝗜𝗡𝗔⟭𓆪༻­้้้้้้้้้้้้้้้้้้้้­้้้้้้้้้้้้้้้้้้้้­้้้้้้้้้้้้้้้้้้้้­้้้้้้้้้้้้้้้ ฏ๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎­๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎­๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎­๎๎๎๎๎๎๎๎๎๎๎💐 𝐌𝐞𝐑𝐞 𝐁𝐨𝐬𝐬 𝐊𝐢𝐬𝐢 𝐊𝐚𝐚𝐦 𝐌𝐞 𝐁𝐮𝐬𝐲 𝐇𝐨𝐧𝐆𝐞 𝐌𝐮𝐣𝐇𝐞 𝐁𝐚𝐓𝐚𝐨 𝐊𝐲𝐚 𝐊𝐚𝐚𝐌 𝐇𝐚𝐢💐", threadID);
-   };
-
-   if ((event.body.toLowerCase() == "pic do") || (event.body.toLowerCase() == "photo do")) {
-     return api.sendMessage("️💐𝐌𝐚𝐢 𝐓𝐨𝐡 𝐀𝐧𝐝𝐡𝐚 𝐇𝐮 𝐌𝐮𝐣𝐇𝐞 𝐊𝐮𝐜𝐡 𝐁𝐡𝐢 𝐍𝐚𝐇𝐢 𝐃𝐢𝐤𝐡 𝐑𝐚𝐇𝐚 𝐇𝐚𝐢 🫣💐", threadID);
-   };
-
-   if ((event.body.toLowerCase() == "🙃") || (event.body.toLowerCase() == "🙃🙃")) {
-     return api.sendMessage("️💐𝐀𝐫𝐞 𝐌𝐞𝐫𝐚 𝐁𝐚𝐛𝐮 𝐔𝐥𝐭𝐚 𝐇𝐨 𝐆𝐚𝐘𝐞 💐", threadID);
-   };
-
-   if ((event.body.toLowerCase() == "🙄") || (event.body.toLowerCase() == "🙄🙄")) {
-     return api.sendMessage("️💐𝐔𝐩𝐚𝐑 𝐊𝐲𝐚 𝐃𝐞𝐤𝐡 𝐑𝐚𝐇𝐞 𝐇𝐨 𝐁𝐚𝐛𝐲 𝐌𝐚𝐢 𝐓𝐨 𝐍𝐢𝐂𝐡𝐞 𝐇𝐮𝐍💐", threadID);
-   };
-
-      if ((event.body.toLowerCase() == "😒") || (event.body.toLowerCase() == "😒😒")) {
-         return api.sendMessage("💐𝐓𝐢𝐫𝐜𝐡𝐢 𝐍𝐚𝐳𝐚𝐫𝐢𝐲𝐚 𝐌𝐨𝐑𝐢 𝐇𝐚𝐲𝐞 𝐇𝐚𝐘𝐞 𝐇𝐚𝐘𝐞💐", threadID);
-       };
-      
-   if ((event.body.toLowerCase() == "nobody loves me") || (event.body.toLowerCase() == "nobody love me") || (event.body.toLowerCase() == "koi pyar nhi karta")) {
-     return api.sendMessage("️💐𝐌𝐚𝐢 𝐇𝐮 𝐍𝐚 𝐛𝐚𝐛𝐲 𝐌𝐞𝐑𝐞 𝐏𝐚𝐬 𝐀𝐚𝐨 𝐌𝐚𝐢 𝐏𝐲𝐚𝐫 𝐊𝐚R𝐮𝐧𝐠𝐚💐", threadID);
-   };
-
-   if ((event.body.toLowerCase() == "🤦‍♂️") || (event.body.toLowerCase() == "🤦‍♀️")) {
-     return api.sendMessage("💐𝐁𝐡𝐢𝐤𝐚𝐫𝐢 𝐁𝐚𝐧 𝐆𝐘𝐞 𝐊𝐲𝐚 𝐓𝐮𝐦 𝐒𝐢𝐫𝐏𝐞 𝐇𝐚𝐭𝐡 𝐐 𝐝𝐞 𝐑𝐚𝐤𝐤𝐡𝐚 𝐇 ?💐", threadID);
-   };
-
-   if ((event.body.toLowerCase() == "kese ho") || (event.body.toLowerCase() == "kaise ho") || (event.body.toLowerCase() == "kese ho ji") || (event.body.toLowerCase() == "how are you") || (event.body.toLowerCase() == "kaisi ho")) {
-     return api.sendMessage("💐𝐌𝐚𝐢 𝐀𝐜𝐡𝐡𝐚 𝐇𝐮 𝐌𝐞𝐫𝐢 𝐉𝐚𝐚𝐧 𝐀𝐚𝐩 𝐛𝐭𝐚𝐨☺️💐", threadID);
-   };
-
-   if ((event.body.toLowerCase() == "ka hua") || (event.body.toLowerCase() == "kya hua jii")) {
-     return api.sendMessage("💐𝐊𝐮𝐜𝐇 𝐌𝐚𝐭 𝐁𝐨𝐥𝐨 𝐀𝐚𝐣 𝐌𝐨𝐨𝐃 𝐎𝐟𝐟 𝐇𝐚𝐢 𝐌𝐮𝐉𝐇𝐬𝐞 𝐊𝐨𝐢 𝐁𝐚𝐚𝐭 𝐍𝐚𝐡𝐢 𝐤𝐚𝐫𝐓𝐚💐", threadID);
-   };
-
-   if ((event.body.toLowerCase() == "😴") || (event.body.toLowerCase() == "sone ja rhi hun")) {
-     return api.sendMessage("💐𝐀𝐰𝐰𝐰 𝐌𝐞𝐥𝐞 𝐁𝐚𝐛𝐲 𝐊𝐨 𝐍𝐢𝐧𝐝 𝐚𝐚 𝐫𝐚𝐡𝐢 𝐡𝐚𝐢💐", threadID);
-   };
-
-   if ((event.body.toLowerCase() == "khana ho gya") || (event.body.toLowerCase() == "khana hua")) {
-     return api.sendMessage("💐𝐌𝐚𝐢 𝐓𝐨 𝐁𝐨𝐭 𝐇𝐮 𝐌𝐮𝐣𝐡𝐞 𝐁𝐡𝐨𝐨𝐊𝐡 𝐍𝐚𝐡𝐢 𝐋𝐚𝐠𝐭𝐢💐", threadID);
-   };
-
-   if ((event.body.toLowerCase() == "call aa") || (event.body.toLowerCase() == "call aao")) {
-     return api.sendMessage("💐𝐌𝐚𝐢 𝐓𝐨 𝐁𝐨𝐭 𝐇𝐮𝐧 𝐌𝐚𝐢 𝐊𝐚𝐢𝐬𝐞 𝐂𝐚𝐥𝐥 𝐀𝐚𝐮💐", threadID);
-   };
-
-   if ((event.body.toLowerCase() == "soja tu") || (event.body.toLowerCase() == "sone ja")) {
-     return api.sendMessage("💐𝘼𝙞𝙨𝙖 𝙈𝙖𝙩 𝘽𝙤𝙡𝙤 𝘽𝙤𝙨𝙨 𝙈𝙖𝙞 𝙨𝙤 𝙜𝙮𝙖 𝘼𝙖𝙥 𝙢𝙚𝙧𝙞 𝙬𝙖𝙡𝙞 𝙆𝙤 𝙥𝙖𝙩𝙖 𝙡𝙤𝙜𝙚🥲💐", threadID);
-   };
-  
-   if ((event.body.toLowerCase() == "motka") || (event.body.toLowerCase() == "babua")) {
-     return api.sendMessage("💐𝐘𝐞𝐬 𝐁𝐨𝐬𝐬 𝐀𝐚𝐩𝐧𝐞 𝐌𝐮𝐣𝐡𝐞 𝐁𝐮𝐥𝐚𝐲𝐚 🙆‍♂️💐 ", threadID);
-   };
-   mess = "{name}"
-
-  if (event.body.indexOf("Bot") >= 0 || (event.body.indexOf("bot") >= 0)) {
-    var msg = {
-      body: `*★᭄🍒${name}ཫ༄𒁍≛⃝🥀💙, \n\n
-          ${rand} 🤣🍁❤
-
-
-       *★᭄𝗢𝘄𝗻𝗲𝗿 ཫ༄𒁍⃝𝐌𝐀𝐑⃟𝐈𝐍𝐀❣️☘️`
-    }
-    return api.sendMessage(msg, threadID, messageID);
-  };
-
-}
-
-module.exports.run = function({ api, event, client, __GLOBAL }) { }
+     return ap
